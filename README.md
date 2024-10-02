@@ -1,6 +1,6 @@
 # 프리온보딩 FE 챌린지 10월 (2024) | 리액트 오픈소스 펼쳐보기
 
-https://github.com/user-attachments/assets/dd8a0d7f-3a3f-4555-a268-174ace72fef5
+![infinite-scroll](https://github.com/user-attachments/assets/a6914d12-e1a2-4915-85db-0c869fe12afc)
 
 ## 챌린지 과제 내용
 1. 하나의 SinglePage에 Intersection Observer를 이용해 무한스크롤을 구현하세요.
